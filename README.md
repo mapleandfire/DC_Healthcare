@@ -1,4 +1,4 @@
-# Medical records condensation: Medical records condensation: a roadmap towards healthcare data democratisation
+# Medical records condensation: a roadmap towards healthcare data democratisation
 
 Code is tested under `Ubuntu==20.04` and a RTX-3060 card.
 
